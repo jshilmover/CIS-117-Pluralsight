@@ -1,13 +1,12 @@
-import React from 'react'
+import React from "react";
 
 function HomePage() {
-    return (
+  return (
     <div className="jumbotron">
-        <h1>Pluralsight Administration</h1>
-        <p>React, Flux, and React Router for ultra responsive web apps.</p>
-        <a href="/about">About</a>
+      <h1>Pluralsight Administration</h1>
+      <p>React, Flux, and React Router for ultra responsive web apps.</p>
     </div>
-    )
+  );
 }
 
-export default HomePage
+export default HomePage;
