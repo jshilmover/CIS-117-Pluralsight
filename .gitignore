@@ -131,6 +131,10 @@ _ReSharper*/
 *.[Rr]e[Ss]harper
 *.DotSettings.user
 
+# Node.js Tools for Visual Studio
+.ntvs_analysis.dat
+node_modules/
+
 # TeamCity is a build add-in
 _TeamCity*
 
